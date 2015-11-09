@@ -1,0 +1,1 @@
+/home/cs1/my/stuff/cs1/code/idris/idriscode/nat.idr
